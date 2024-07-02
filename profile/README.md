@@ -6,4 +6,4 @@
 
 
 ## Used Languages
-![Used Languages](https://skillicons.dev/icons?i=java,kotlin,swift,rust,go,nodejs,js,python)
+![Used Languages](https://skillicons.dev/icons?i=java,kotlin,ruby,swift,rust,go,nodejs,js,python)
